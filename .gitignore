@@ -77,5 +77,11 @@ _ngo/
 _xmsgs/
 isim/
 
+# Extras
+*.hw/
+*.cache/
+*.ip_user_files/
+*.sim/
+
 
 # End of https://www.gitignore.io/api/xilinxise
